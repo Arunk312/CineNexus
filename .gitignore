@@ -1,0 +1,6 @@
+movie/
+__pycache__/
+*.pyc
+models/
+artifacts/
+.env
